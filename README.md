@@ -12,6 +12,8 @@ Online Video Player is also convenient and fast. You don't need to wait for the 
 
 Online Video Player supports most common video formats, such as MP4, AVI, MKV, MOV, and more.
 
+Another version is, [Online URL Video Player from Link](/p/online-video-player.html)
+
 ### Online Video Player From Files - How does it work?
 
 This online player does not upload your videos to any server or cloud. It simply uses the browser's built-in video capabilities to play your files locally on your computer.  
