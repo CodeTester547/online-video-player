@@ -26,15 +26,15 @@ Our online video player for local files has some features that make it convenien
 
 You can use the space bar to pause and resume, the left and right arrow keys to rewind and fast forward, and the up and down arrow keys to adjust the volume.
 
-3.  **Picture in Picture mode**
+2.  **Picture in Picture mode**
 
 You can enable this mode by clicking the icon on the bottom right corner of the video. This will allow you to watch your video in a small window that stays on top of other windows, so you can multitask while watching.
 
-5.  **Sandboxing**
+3.  **Sandboxing**
 
 This is a security feature that isolates the browser from the rest of the system, preventing any malicious code from accessing or modifying your files or settings. This means that even if your video file contains a virus or malware, it will not be able to harm your computer or steal your data.
 
-7.  **Smooth User Experience**
+4.  **Smooth User Experience**
 
 Our local video player is the best online player web application to play local videos on your browser with smoothest user experience.
 
