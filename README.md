@@ -55,33 +55,3 @@ Online Video Player is a web app that I created for myself, but I decided to sha
 
 I hope you find it useful and enjoyable. If you have any feedback or suggestions, please feel free to contact me. Thank you for using Online Video Player!
 
-FAQs
-----
-
-Is playing videos in browser safe?
-
-Yes, playing videos online using our online video player for file is completely safe. Our ovideo player is actually a [web video player](https://www.innateblogger.com/p/online-video-player-for-file.html) which helps users stream videos directly from their browser with full functionality of a video player application.
-
-Will this Online Video Player play h264 MKV Codec or x264.AAC MKV Videos?
-
-Yes, our Online video player can play h264 MKV Codec or x264.AAC MKV Videos without any problem. But, you might face problem while playing h265 formats.
-
-Can I play MKV videos using this Online Player?
-
-Chrome is able to play MKV video formats natively on most operating systems, including Windows, macOS, and Linux. This means that you should be able to play MKV files in Chrome without the need for any additional software or plugins.
-
-However, there are some cases in which Chrome may not be able to play MKV files. For example, if the video is encoded with a codec that Chrome does not support, or if the file is corrupted, Chrome will not be able to play the video.
-
-Additionally, Chrome on mobile devices like android and iOS don't support playing MKV files natively, in this case you will need a third-party app or media player to open the MKV file.
-
-It's always a good idea to check the codecs of the video files you're trying to play to ensure that they're compatible with Chrome.
-
-Why is Video playing without Audio?
-
-If the video is encoded with a audio codec that Chrome or your browser does not support, or if the file is corrupted, then it can happen.
-
-How can I play MKV video files on Chrome?
-
-MKV files are a type of video format that can store multiple audio and video streams, subtitles, and metadata. Chrome has some native support for playing MKV files, but it may not work for all MKV files depending on the codecs they use. 
-
-If the codecs are not compatible with Chrome, you can download and play the video using VLC, or you can [network stream the MKV file using applications like VLC Player and MX Player](https://www.innateblogger.com/2021/06/online-url-video-player-tool.html).
