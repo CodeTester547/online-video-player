@@ -1,7 +1,7 @@
 # online-video-player
 This is a simple video player that runs on the Browser. Visit the website: https://www.innateblogger.com/p/online-video-player-for-file.html
 
-Online Video Player - Play Local Video Files on the Browser
+[Online Video Player - Play Local Video Files on the Browser](https://www.innateblogger.com/p/online-video-player-for-file.html)
 -----------------------------------------------------------
 
 Have you ever wanted to watch a video file on your computer without downloading a separate video player? Well, now you can with this online video player that lets you play your local video files on the browser. 
